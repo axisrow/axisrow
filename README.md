@@ -25,15 +25,15 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 
 | Project | Description | ★ |
 |---|---|---|
-| [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 31 |
-| [yandex-direct-mcp-plugin](https://github.com/axisrow/yandex-direct-mcp-plugin) | Claude Code plugin for Yandex.Direct — MCP server + skills + OAuth | 6 |
+| [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 32 |
+| [yandex-direct-mcp-plugin](https://github.com/axisrow/yandex-direct-mcp-plugin) | Claude Code plugin for Yandex.Direct — MCP server + skills + OAuth | 7 |
 | [direct-cli](https://github.com/axisrow/direct-cli) | CLI for Yandex.Direct | 4 |
 **AI / Agent Tooling**
 
 | Project | Description | ★ |
 |---|---|---|
 | [clihost](https://github.com/axisrow/clihost) | Self-hosting / proxy CLI, security-hardened | 5 |
-| [claude-code-cycle-review-skill](https://github.com/axisrow/claude-code-cycle-review-skill) | Automated PR review cycle for Claude Code | 5 |
+| [claude-code-cycle-review-skill](https://github.com/axisrow/claude-code-cycle-review-skill) | Automated PR review cycle for Claude Code | 6 |
 | [claude_code_gmail_plugin](https://github.com/axisrow/claude_code_gmail_plugin) | Gmail plugin for Claude Code | 3 |
 **Data / ML**
 
