@@ -27,7 +27,7 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 |---|---|---|
 | [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 31 |
 | [yandex-direct-mcp-plugin](https://github.com/axisrow/yandex-direct-mcp-plugin) | Claude Code plugin for Yandex.Direct — MCP server + skills + OAuth | 8 |
-| [direct-cli](https://github.com/axisrow/direct-cli) | CLI for Yandex.Direct | 4 |
+| [direct-cli](https://github.com/axisrow/direct-cli) | CLI for Yandex.Direct | 6 |
 **AI / Agent Tooling**
 
 | Project | Description | ★ |
