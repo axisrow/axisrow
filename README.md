@@ -35,8 +35,6 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 | [clihost](https://github.com/axisrow/clihost) | Self-hosting / proxy CLI, security-hardened | 5 |
 | [claude-code-cycle-review-skill](https://github.com/axisrow/claude-code-cycle-review-skill) | Automated PR review cycle for Claude Code | 7 |
 | [claude_code_gmail_plugin](https://github.com/axisrow/claude_code_gmail_plugin) | Gmail plugin for Claude Code | 3 |
-| [zai-codex-helper](https://github.com/axisrow/zai-codex-helper) | CLI to switch Codex between Z.ai and OpenAI (archived) | 3 |
-| [ccusage-dashboard](https://github.com/axisrow/ccusage-dashboard) | Hourly cost dashboard for Claude Code and Codex usage | 2 |
 **Data / ML**
 
 | Project | Description | ★ |
