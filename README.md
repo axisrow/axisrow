@@ -21,32 +21,28 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 
 ---
 
-**Telegram & Yandex**
+**Integrations**
 
 | Project | Description | ★ |
 |---|---|---|
 | [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 31 |
+| [hhru](https://github.com/axisrow/hhru) | Job-search automation for hh.ru — vacancies, responses, and resume boosting via Playwright | 22 |
 | [yandex-direct-mcp-plugin](https://github.com/axisrow/yandex-direct-mcp-plugin) | Claude Code plugin for Yandex.Direct — MCP server + skills + OAuth | 12 |
 | [direct-cli](https://github.com/axisrow/direct-cli) | CLI for Yandex.Direct | 6 |
-**Automation**
-
-| Project | Description | ★ |
-|---|---|---|
-| [hhru](https://github.com/axisrow/hhru) | Job-search automation for hh.ru — vacancies, responses, and resume boosting via Playwright | 22 |
-**AI / Agent Tooling**
-
-| Project | Description | ★ |
-|---|---|---|
-| [gemini-webapi-mcp](https://github.com/axisrow/gemini-webapi-mcp) | MCP server for Google Gemini — image generation, editing, and chat via browser cookies, no API keys | 2 |
-| [clihost](https://github.com/axisrow/clihost) | Self-hosting / proxy CLI, security-hardened | 5 |
-| [claude-code-cycle-review-skill](https://github.com/axisrow/claude-code-cycle-review-skill) | Automated PR review cycle for Claude Code | 7 |
 | [claude_code_gmail_plugin](https://github.com/axisrow/claude_code_gmail_plugin) | Gmail plugin for Claude Code | 3 |
-| [zai-codex-helper](https://github.com/axisrow/zai-codex-helper) | CLI to switch Codex between Z.ai and OpenAI (archived) | 2 |
-| [ccusage-dashboard](https://github.com/axisrow/ccusage-dashboard) | Hourly cost dashboard for Claude Code and Codex usage | 3 |
-**Data / ML**
+| [gemini-webapi-mcp](https://github.com/axisrow/gemini-webapi-mcp) | MCP server for Google Gemini — image generation, editing, and chat via browser cookies, no API keys | 2 |
+**Agent Tooling**
 
 | Project | Description | ★ |
 |---|---|---|
+| [claude-code-cycle-review-skill](https://github.com/axisrow/claude-code-cycle-review-skill) | Automated PR review cycle for Claude Code | 7 |
+| [clihost](https://github.com/axisrow/clihost) | Self-hosting / proxy CLI, security-hardened | 5 |
+| [zai-codex-helper](https://github.com/axisrow/zai-codex-helper) | CLI to switch Codex between Z.ai and OpenAI (archived) | 2 |
+**Evaluation & Data**
+
+| Project | Description | ★ |
+|---|---|---|
+| [ccusage-dashboard](https://github.com/axisrow/ccusage-dashboard) | Hourly cost dashboard for Claude Code and Codex usage | 3 |
 | [llm_benchmark](https://github.com/axisrow/llm_benchmark) | LLM benchmark harness | 3 |
 ---
 
