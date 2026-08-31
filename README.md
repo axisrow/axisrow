@@ -14,6 +14,7 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 
 | Project | Contribution | PR |
 |---|---|---|
+| [ccusage/ccusage](https://github.com/ccusage/ccusage) | Co-authored the merged ZCode SQLite usage adapter and report/test integration | [#1675](https://github.com/ccusage/ccusage/pull/1675) |
 | [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) | Optional retry mechanism for transient network errors | [#2627](https://github.com/ranaroussi/yfinance/pull/2627) |
 | [IBM/mcp-cli](https://github.com/IBM/mcp-cli) | `CmdCommand` for Unix-friendly automation + serialization fix | [#227](https://github.com/IBM/mcp-cli/pull/227) |
 | [etopro/ai-resto](https://github.com/etopro/ai-resto) | 23 merged PRs across v0.2–v1.0 (auth, Redis caching, DB optimization, E2E/Playwright, PWA push, security) | — |
