@@ -27,7 +27,7 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 | Project | Description | ★ |
 |---|---|---|
 | [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 31 |
-| [hhru](https://github.com/axisrow/hhru) | Job-search automation for hh.ru — vacancies, responses, and resume boosting via Playwright | 22 |
+| [hhru](https://github.com/axisrow/hhru) | Job-search automation for hh.ru — vacancies, responses, and resume boosting via Playwright | 23 |
 | [yandex-direct-mcp-plugin](https://github.com/axisrow/yandex-direct-mcp-plugin) | Claude Code plugin for Yandex.Direct — MCP server + skills + OAuth | 12 |
 | [direct-cli](https://github.com/axisrow/direct-cli) | CLI for Yandex.Direct | 6 |
 | [claude_code_gmail_plugin](https://github.com/axisrow/claude_code_gmail_plugin) | Gmail plugin for Claude Code | 3 |
