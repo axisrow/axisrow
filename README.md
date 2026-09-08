@@ -10,7 +10,9 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 
 ### 🔨 Proof of Work
 
-**Open-Source Contributions** — merged upstream
+**Open-Source Contributions** — 51 merged upstream PRs ([full registry](https://axisrow.github.io#opensource))
+
+Featured examples:
 
 | Project | Contribution | PR |
 |---|---|---|
@@ -18,7 +20,7 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 | [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) | Optional retry mechanism for transient network errors | [#2627](https://github.com/ranaroussi/yfinance/pull/2627) |
 | [IBM/mcp-cli](https://github.com/IBM/mcp-cli) | `CmdCommand` for Unix-friendly automation + serialization fix | [#227](https://github.com/IBM/mcp-cli/pull/227) |
 | [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | Multiline prompt submit + safer permission-dialog handling | [#2357](https://github.com/AgentWrapper/agent-orchestrator/pull/2357) |
-| [ccusage/ccusage](https://github.com/ccusage/ccusage) | Co-authored the merged ZCode SQLite usage adapter and report/test integration | [#1675](https://github.com/ccusage/ccusage/pull/1675) |
+| [ccusage/ccusage](https://github.com/ccusage/ccusage) | Co-authored the merged ZCode SQLite usage adapter and report/test integration | Co-authored · [#1675](https://github.com/ccusage/ccusage/pull/1675) |
 
 ---
 
