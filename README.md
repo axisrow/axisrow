@@ -16,6 +16,7 @@ Featured examples:
 
 | Project | Contribution | PR |
 |---|---|---|
+| [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | Render forks as an editable glyph in the git-is-fork widget | [#617](https://github.com/sirmalloc/ccstatusline/pull/617) |
 | [ccusage/ccusage](https://github.com/ccusage/ccusage) | Co-authored the merged ZCode SQLite usage adapter and report/test integration | Co-authored · [#1675](https://github.com/ccusage/ccusage/pull/1675) |
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | Feature and documentation contributions to Peter Steinberger's desktop utility | [#2814](https://github.com/steipete/CodexBar/pull/2814) |
 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | Multiline prompt submit + safer permission-dialog handling | [#2357](https://github.com/Untrivial-ai/agent-orchestrator/pull/2357) |
