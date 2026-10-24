@@ -41,7 +41,7 @@ Featured examples:
 |---|---|---|
 | [claude-code-cycle-review-skill](https://github.com/axisrow/claude-code-cycle-review-skill) | Automated PR review cycle for Claude Code | 7 |
 | [clihost](https://github.com/axisrow/clihost) | Self-hosting / proxy CLI, security-hardened | 5 |
-| [zai-codex-helper](https://github.com/axisrow/zai-codex-helper) | CLI to switch Codex between Z.ai and OpenAI (archived) | 2 |
+| [zai-codex-helper](https://github.com/axisrow/zai-codex-helper) | CLI to switch Codex between Z.ai and OpenAI (archived) | 3 |
 **Evaluation & Data**
 
 | Project | Description | ★ |
