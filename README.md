@@ -10,7 +10,7 @@ Python engineer — AI agent tooling, automation, and data/finance systems.
 
 ### 🔨 Proof of Work
 
-**Open-Source Contributions** — 119 merged upstream PRs ([full registry](https://axisrow.github.io#opensource))
+**Open-Source Contributions** — 131 merged upstream PRs ([full registry](https://axisrow.github.io#opensource))
 
 Featured examples:
 
@@ -29,7 +29,7 @@ Featured examples:
 
 | Project | Description | ★ |
 |---|---|---|
-| [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 36 |
+| [tg_content_factory](https://github.com/axisrow/tg_content_factory) | Content-factory pipeline for Telegram — flagship project | 37 |
 | [hhru](https://github.com/axisrow/hhru) | Job-search automation for hh.ru — vacancies, responses, and resume boosting via Playwright | 31 |
 | [yandex-direct-mcp-plugin](https://github.com/axisrow/yandex-direct-mcp-plugin) | Claude Code plugin for Yandex.Direct — MCP server + skills + OAuth | 13 |
 | [direct-cli](https://github.com/axisrow/direct-cli) | CLI for Yandex.Direct | 6 |
